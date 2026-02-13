@@ -1,1 +1,22 @@
+b {
+    color: green;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Cambria;
+}
+h3 {
+    color: red;
+}
+.container {
+    display: flex;
+    align-items: center;
+}
 
+.image {
+    margin-left:20rem;
+}
+img {
+
+    width: 250px;
+
+}
